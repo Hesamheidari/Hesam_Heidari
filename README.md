@@ -19,11 +19,11 @@ I think that about 200 years ago The Industrial Revolution took place and in the
  <p> <b>and this is bold text</b>.</p>
  
  <ol>
-<b><li>C++ language</li></b>
-<b><li>Java script</li></b>
-<b><li>Python</li></b>
-<b><li>PHP</li></b>
-<b><li>JQuery</li></b>
+<b><li><strong><em>C++ language</em></li></b>
+<b><li><strong><em>Java script</em></li></b>
+<b><li><strong><em>Python</em></li></b>
+<b><li><strong><em>PHP</em></li></b>
+<b><li><strong><em>JQuery</em></li></b>
 </ol>
  
 ## Work goals:
