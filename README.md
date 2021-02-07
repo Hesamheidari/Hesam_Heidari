@@ -24,3 +24,7 @@ I think that about 200 years ago The Industrial Revolution took place and in the
  <li>JQuery</li>
 </ol>
  
+## Work goals:
+<p> 
+I do not want to be a programmer who works<b> for others<\b>. beacause i think that When your goal is to work for others forever, you will never reach the pinnacle of success. 
+ 
