@@ -1,17 +1,6 @@
 # Hesam_Heidari
 ### I am Hesam Heidari,Iranian student of IUST in CE. I hope this site is useful for you.
 
-<style>
-.myDiv {
-  border: 5px outset red;
-  background-color: lightblue;
-  text-align: center;
-}
-</style>
-</head>
-<body>
-
-<div class="myDiv">
 
 ## What happened when I chose computer engineering? 
 <p> 
@@ -19,7 +8,7 @@ Actualy, i was very confused about what field to pursue at university. but i was
 When i went to university I thought that learning programming in Ordinary classes in institues are no different from universities. but actualy, learning this in universities are so better than ordinary classes.
  
 
-</div>
+
 ## Are you <strong><em>really satisfied</em> with studying in this field? 
 <p> 
 Yes, a lot. The present age is the age of technology and computer engineering is the main field in the field of **new technology**. 
