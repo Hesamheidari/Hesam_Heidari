@@ -1,23 +1,10 @@
 # Hesam_Heidari
 ### I am Hesam Heidari,Iranian student of IUST in CE. I hope this site is useful for you.
 
-<div>
-div {
-    width: 3em;
-    height: 3em;
-    background-color: red;
-    transition-property: background-color, width;
-    transition-duration: 4s;
-}
-div:hover {
-    width: 10em;
-    background-color: blue;
-}
 ## What happened when I chose computer engineering? 
 <p> 
 Actualy, i was very confused about what field to pursue at university. but i was interseted in programming beacause in my secendary school a programming class was held. my teacher adviced to learining java script and 1 year later we learned androind programming in android studio.
 When i went to university I thought that learning programming in Ordinary classes in institues are no different from universities. but actualy, learning this in universities are so better than ordinary classes.
- <\div>
 
 ## Are you <strong><em>really satisfied</em> with studying in this field? 
 <p> 
