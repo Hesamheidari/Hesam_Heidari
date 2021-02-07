@@ -9,7 +9,7 @@ When i went to university I thought that learning programming in Ordinary classe
  <\p> 
 
 
-## Are you **satisfied** with studying in this field? 
+## Are you <strong><em>really satisfied</em> with studying in this field? 
 <p> 
 Yes, a lot. The present age is the age of technology and computer engineering is the main field in the field of **new technology**. 
 I think that about 200 years ago The Industrial Revolution took place and in these years Computer, Internet and technical revolution is happening. 
