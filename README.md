@@ -47,12 +47,3 @@ I do not want to be a programmer who works<b> for others</b>. beacause i think t
  <a href="http://ce.iust.ac.ir/">CLICK ME!!</a>
 
 
-
-<canvas id="myCanvas">Your browser does not support the canvas tag.</canvas>
-
-<script>
-var c = document.getElementById("myCanvas");
-var ctx = c.getContext("2d");
-ctx.fillStyle = "#FF0000";
-ctx.fillRect(0, 0, 80, 100);
-</script>
