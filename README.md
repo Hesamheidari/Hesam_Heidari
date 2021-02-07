@@ -16,12 +16,14 @@ I think that about 200 years ago The Industrial Revolution took place and in the
 <p>
  My priority for learning programming languages is as follows: 
  
+ <p> <b>and this is bold text</b>.</p>
+ 
  <ol>
-<li>C++ language</li>
-<li>Java script</li>
-<li>Python</li>
-<li>PHP</li>
- <li>JQuery</li>
+<b><li>C++ language</li></b>
+<b><li>Java script</li></b>
+<b><li>Python</li></b>
+<b><li>PHP</li></b>
+<b><li>JQuery</li></b>
 </ol>
  
 ## Work goals:
