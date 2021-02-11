@@ -1,6 +1,6 @@
 # Hesam_Heidari
 ### I am Hesam Heidari,Iranian student of IUST in CE. I hope this site is useful for you.
-<br>
+
 ## What happened when I chose computer engineering? 
 <br>
 <p> 
@@ -22,11 +22,11 @@ I think that about 200 years ago The Industrial Revolution took place and in the
  <p> 
 
  <ol>
-<strong><em>C++ language</em>
-<strong><em>Java script</em>
-<strong><em>Python</em>
-<strong><em>PHP</em>
-<strong><em>JQuery</em>
+<strong><em>C++ language</em><br>
+<strong><em>Java script</em><br>
+<strong><em>Python</em><br>
+<strong><em>PHP</em><br>
+<strong><em>JQuery</em><br>
 </ol>
  
  <br>
