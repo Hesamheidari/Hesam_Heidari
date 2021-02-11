@@ -44,7 +44,7 @@ I live in hope of that day ...
   
  ## Picture of my university :)
  <br>
-<img src="https://lh3.googleusercontent.com/proxy/zlAaWrQcGWskZ0Xb3HYqBLkskLpmSf0M4HLrHQn9ywNpBdjHw2bJ8rK0qCpJUDVpIoEkntqd-jabPZesXS76crUZd6KjsbBnNJ-6jmGfhmlZDLcumA" alt="iUST" width="500" height="600">
+<img src="https://lh3.googleusercontent.com/proxy/zlAaWrQcGWskZ0Xb3HYqBLkskLpmSf0M4HLrHQn9ywNpBdjHw2bJ8rK0qCpJUDVpIoEkntqd-jabPZesXS76crUZd6KjsbBnNJ-6jmGfhmlZDLcumA" alt="iUST" width="500" height="500">
 
 <br>
  ## lINK OF MY UNIVERSITY SITE:
