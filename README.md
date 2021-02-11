@@ -19,14 +19,18 @@ I think that about 200 years ago The Industrial Revolution took place and in the
  <p> <b>and this is bold text</b>.</p>
  
  <ol>
-<b><li><strong><em>C++ language</em></li></b>
-<b><li><strong><em>Java script</em></li></b>
-<b><li><strong><em>Python</em></li></b>
-<b><li><strong><em>PHP</em></li></b>
-<b><li><strong><em>JQuery</em></li></b>
+<strong><em>C++ language</em>
+<strong><em>Java script</em>
+<strong><em>Python</em>
+<strong><em>PHP</em>
+<strong><em>JQuery</em>
 </ol>
  
+ 
+ 
+ 
 ## Work goals:
+
 <p> 
 I do not want to be a programmer who works<b> for others</b>. beacause i think that When your goal is to work for others forever, you will never reach the pinnacle of success. 
 
@@ -35,7 +39,7 @@ so i want found a company that All the people of the world will know it.
 I live in hope of that day ... 
   
  ## Picture of my university :)
- <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.iust.ac.ir%2Ffind-112.14457.36997.fa.html&psig=AOvVaw1VW8s22COAoeNBknHqHp5c&ust=1612817968253000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD7rqPV2O4CFQAAAAAdAAAAABAJ" alt="iUST" width="500" height="600">
+<img src="https://www.google.com/urlsa=i&url=http%3A%2F%2Fwww.iust.ac.ir%2Ffind112.14457.36997.fa.html&psig=AOvVaw1VW8s22COAoeNBknHqHp5c&ust=1612817968253000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD7rqPV2O4CFQAAAAAdAAAAABAJ" alt="iUST" width="500" height="600">
 
 
  ## lINK OF MY UNIVERSITY SITE:
@@ -44,9 +48,11 @@ I live in hope of that day ...
  <a href="http://iust.ac.ir/">CLICK ME!!</a>
  
  
- ### Link of my colloge in university:
+ ### Link of my colloge in univ
  
-  <P>
+ 
+ <P>
  <a href="http://ce.iust.ac.ir/">CLICK ME!!</a>
 
 
+1
