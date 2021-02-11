@@ -53,7 +53,7 @@ I live in hope of that day ...
  <a href="http://iust.ac.ir/">CLICK ME!!</a>
  
  <br>
- ### Link of my colloge in univ
+ ### Link of my colloge in university
 <br> 
  
  <P>
